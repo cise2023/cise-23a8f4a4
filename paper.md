@@ -1,8 +1,11 @@
 # Section
 
-Example of a paper source in Markdown (edited)
+Example of a paper source in Markdown (edited again)
 
 ## Subsection
+
+![](cat.jpeg)
+![](dog.jpeg)
 
 Paragraph with inline formula $\int _a ^b \sin(x) dx$.
 
