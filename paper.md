@@ -1,6 +1,6 @@
 # Section
 
-Example of a paper source in Markdown
+Example of a paper source in Markdown (edited)
 
 ## Subsection
 
