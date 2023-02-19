@@ -1,8 +1,8 @@
 # Welcome
 
-This repo: https://github.com/cise2023/cise-23a8f4a4
+This repo: https://github.com/{org}/{repo}
 
-Access this repo with VSCode online: https://github.dev/cise2023/cise-23a8f4a4
+Access this repo with VSCode online: https://github.dev/{org}/{repo}
 
 For automation make sure to call you paper:
 
